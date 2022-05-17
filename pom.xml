@@ -40,7 +40,7 @@
           <version>0.6.1</version>
           <configuration>
             <protocExecutable>/usr/local/bin/protoc</protocExecutable>
-            <outputDirectory>${project.basedir}/src/main/java/com/shrobon/protobuf</outputDirectory>
+            <outputDirectory>${project.basedir}/src/main/java/com/shrobon</outputDirectory>
             <protoSourceRoot>${project.basedir}/src/main/resources</protoSourceRoot>
             <additionalProtoPathElements>${project.basedir}/src/main/resources</additionalProtoPathElements>
           </configuration>

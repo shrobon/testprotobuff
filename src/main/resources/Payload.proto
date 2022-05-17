@@ -1,6 +1,5 @@
 syntax = "proto3";
-package shrobon;
-option java_package = "com.shrobon.protobuf";
+package protobuf;
 
 message Course {
     int32 id = 1;
