@@ -9,3 +9,4 @@ mvn clean compile protobuf:compile
 
 ##### Resources
 - [Publish to Maven](https://dzone.com/articles/publish-your-artifacts-to-maven-central)
+- [Onboarding Ticket](https://issues.sonatype.org/browse/OSSRH-80921xQ)
